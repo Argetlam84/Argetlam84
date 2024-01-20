@@ -1,3 +1,6 @@
+
+![Uploading image_processing20210729-32645-tn0q8p.gif…]()
+
 <h1 align="center">Hi 👋, I'm Mehmet Arslan</h1>
 <h3 align="center">A passionate data scientist from Turkey</h3>
 
