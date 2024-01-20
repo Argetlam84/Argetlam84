@@ -1,5 +1,4 @@
-
-![Uploading image_processing20210729-32645-tn0q8p.gif…]()
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16134521-AI-Technology%2Fattachments%2F7988546%3Fmode%3Dmedia&psig=AOvVaw0cpp1rdqdFhN2uqIRmuhkn&ust=1705854835906000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi3gNCy7IMDFQAAAAAdAAAAABA8
 
 <h1 align="center">Hi 👋, I'm Mehmet Arslan</h1>
 <h3 align="center">A passionate data scientist from Turkey</h3>
