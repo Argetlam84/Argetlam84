@@ -1,4 +1,4 @@
-![]([https://websiteninadi.uzantisi/resim_dosyasinin_adi.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lumenci.com%2Fpost%2Ffuture-of-ai&psig=AOvVaw0cpp1rdqdFhN2uqIRmuhkn&ust=1705854835906000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi3gNCy7IMDFQAAAAAdAAAAABBg))
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lumenci.com%2Fpost%2Ffuture-of-ai&psig=AOvVaw0cpp1rdqdFhN2uqIRmuhkn&ust=1705854835906000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi3gNCy7IMDFQAAAAAdAAAAABBg" height="500">
 
 <h1 align="center">Hi 👋, I'm Mehmet Arslan</h1>
 <h3 align="center">A passionate data scientist from Turkey</h3>
